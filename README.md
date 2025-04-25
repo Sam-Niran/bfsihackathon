@@ -32,9 +32,4 @@ Banks receive thousands of personal loan applications daily, each containing doc
 6. On confirmation, frontend sends data to another backend route (`/submit-data`)
 7. Data is stored in the `user_details` table in MySQL
 
-## Setup Instructions
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/loan-doc-ocr.git
-   cd loan-doc-ocr
